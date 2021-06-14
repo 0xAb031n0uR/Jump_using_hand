@@ -1,9 +1,12 @@
 # T-Rex Dinosaur jump Using Hand detection
 ## installation
-```python
+### Windows 
+
+```bash
+#this im CMD
 pip3 install -r requirements.txt
 ```
 ## Execution
-```python
+```bash
 python3 jump.py
 ```
