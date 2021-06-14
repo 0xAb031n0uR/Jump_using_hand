@@ -1,2 +1,7 @@
-# Jump_using_hand
-T-Rex Dinosaur jump Using Hand detection
+#T-Rex Dinosaur jump Using Hand detection
+## install 
+```python
+pip3 install -r requirements.txt
+```
+## Execution
+python3 jump.py
